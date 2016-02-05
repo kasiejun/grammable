@@ -30,6 +30,8 @@ gem 'sprockets', '2.11.0'
 
 gem 'simple_form'
 
+gem 'devise'
+
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
 
